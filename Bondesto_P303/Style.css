@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:1.5em;
+    margin-left:5cm;
+    margin-right:5cm;
+}
+.Guestinfo{
+    padding: 8px;
+}
+label{
+   width: 500px;
+   display: block;
+}
+button{
+background-color: rgb(14, 98, 255);
+color: cornsilk;
+padding:10px 15px;
+border: none;
+}   
